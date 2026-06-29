@@ -137,3 +137,4 @@ This project follows the same licensing philosophy as the Linux kernel, ensuring
 
 For the full license text, see the LICENSE file.
 
+Codeberg repo: https://codeberg.org/garodaemon/Avahi-linux
